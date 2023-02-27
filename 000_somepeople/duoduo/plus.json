@@ -1,0 +1,112 @@
+{
+    "api": [
+        {
+            "key": "多多TV Plus多线路版〔点这里选择线路〕",
+            "name": "请点击下方线路进行切换",
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "date": ""
+        },
+        {
+            "key": "公告",
+            "name": "公众号【应用多多】持续更新维护",
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "date": ""
+        },
+        {
+            "key": "空格",
+            "name": "-------------------------",
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "date": "START"
+        },
+        {
+            "key": "🏡应用多多家庭版",
+            "name": "🏡①应用多多家庭版",
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "date": "多多TV作者大聪明每日维护"
+        },
+        {
+            "key": "🐹蚂蚁论坛线路",
+            "name": "🐹②蚂蚁线路",
+            "ext": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+            "date": "知名电视软件论坛"
+        },
+        {
+            "key": "🍍月光宝盒",
+            "name": "🍍③月光宝盒",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "date": "TVBox开发大佬"
+        },
+        {
+            "key": "🍊星辰线路",
+            "name": "🍊④星辰线路",
+            "ext": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "🍓公益线路",
+            "name": "🍓⑤公益线路",
+            "ext": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
+            "date": "新发现公益专线"
+        },
+        {
+            "key": "🍋饭太硬线路",
+            "name": "🍋⑥饭太硬线路",
+            "ext": "http://xn--sss604efuw.ml/tvb/x",
+            "date": "神器每日幕后"
+        },
+        {
+            "key": "🍑吾爱线路",
+            "name": "🍑⑦吾爱线路",
+            "ext": "http://52bsj.vip:98/wuai",
+            "date": "吾爱评测专线"
+        },
+        {
+            "key": "🍎小苹果线路",
+            "name": "🍎⑧小苹果线路",
+            "ext": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "date": "小苹果影视线路"
+        },
+        {
+            "key": "️🍉太阳线路",
+            "name": "🍉⑨太阳线路",
+            "ext": "http://111.67.196.181/mtv/meow.txt",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "🍅乱世线路",
+            "name": "🍅⑩乱世线路",
+            "ext": "http://www.dmtv.ml/mao/single.json",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "🥝老刘备线路",
+            "name": "🥝⑪老刘备线路",
+            "ext": "https://raw.liucn.cc/box/m.json",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "🍇南风线路",
+            "name": "🍇⑫南风线路",
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "date": "经典Yoursmile线路"
+        },
+        {
+            "key": "🍈冷牛哥线路",
+            "name": "🍈⑬冷牛哥线路",
+            "ext": "http://tvbox.lengniuge.eu.org/ts",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "空格2",
+            "name": "-------------------------",
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "date": "END"
+        },
+        {
+            "key": "空格3",
+            "name": "加入QQ频道【应用多多】反馈问题",
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "date": ""
+        }
+    ]
+}

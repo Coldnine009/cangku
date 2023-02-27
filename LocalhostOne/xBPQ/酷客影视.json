@@ -1,0 +1,40 @@
+{
+"作者":"tvbox",	
+"站名":"酷客影视",
+"主页url":"http://www.2kuke.com",
+"请求头":"手机 ",
+"副标题":"class=\"pic-text text-right\">&&</span>",
+"导演":"导演：&&</p",
+"主演":"主演：&&</p",
+"简介":"简介: &&</p",
+"线路二次截取":"class=\"nav nav-tabs pull-right&&</ul>",
+"线路数组":"href=\"#down&&</li>",
+"线路标题":">&&</a",
+"播放数组":"class=\"stui-content__playlist&&</ul>",
+"分类":"电影$1#电视剧$2#动漫$3#综艺$4#伦理$6",
+"分类url":"http://www.2kuke.com/list/{cateId}_{catePg}.html?{by}",
+"筛选": {
+"1":[
+{"key":"by","name":"排序","value":[
+{"n":"时间","v":"order=time"},
+{"n":"人气","v":"order=hit"}]}],
+  
+"2":[
+{"key":"by","name":"排序","value":[
+{"n":"时间","v":"order=time"},
+{"n":"人气","v":"order=hit"}]}],
+
+"3":[
+{"key":"by","name":"排序","value":[
+{"n":"时间","v":"order=time"},
+{"n":"人气","v":"order=hit"}]}],
+
+"4":[
+{"key":"by","name":"排序","value":[
+{"n":"时间","v":"order=time"},
+{"n":"人气","v":"order=hit"}]}],
+  
+"6":[
+{"key":"by","name":"排序","value":[
+{"n":"时间","v":"order=time"},
+{"n":"人气","v":"order=hit"}]}]}}

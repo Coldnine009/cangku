@@ -1,0 +1,34 @@
+
+
+
+
+
+由于某里系统做了升级
+
+现在TVBox里的小纸条、盘搜、云搜等某里系的网盘资源都不能使用了，打开播放时显示黑屏，解决方法如下→→💎单独点击刷新或者重播键数次就可以正常播放了。
+
+把压缩包解压后，放到手机或者电视或者盒子，的根目录下🧓切记切记
+ 
+TV直播输入确认clan://localhost/TVBox/tv/live.txt
+
+本地多仓:
+clan://localhost/TVBox/本地.json
+ 
+本地+在线多仓 : 
+ clan://localhost/TVBox/lib/在线.json
+ 
+😍😍激情线路：
+
+clan://localhost/TVBox/jar/b
+
+
+clan://localhost/TVBox/jar/bb
+
+
+clan://localhost/TVBox/jar/bbb
+
+ 
+
+请大家认真阅读。
+
+

@@ -1,0 +1,59 @@
+//公众号【云星日记】
+//公众号【云星日记】
+//公众号【云星日记】
+
+//多个个仓库：多个在线，一个本地
+//本地仓库：需要配合公众号本地包使用详情前往公众号回复关键词
+//在线仓库使用教程公众号回复【可视TV仓库地址】
+//本地仓库使用教程公众号回复【TVBox本地接口】
+
+//•Q①群号：783468715（2k人满）
+//•Q②群号：764366711（2k人满）
+//•Q③群号：211185159（1k人满）
+//•Q 4群号：582874559 （1k人满）
+//•Q 5群号：716385048 （新群）
+//QQ频道：搜索云星日记即可           
+//微信群;加客服赞赏入群           
+//客服微信:Yc_zhxx
+//本地接口配置: clan://localhost/TVBox/lib/ksck.json
+//上面链接是针对那些电视端添加仓库失败的各别人员使用
+{
+"storeHouse":
+[
+
+{"sourceName":"可视本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
+{"sourceName": "安卓哥2仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
+{"sourceName": "安卓哥JS仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
+{"sourceName": "安卓哥PY仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
+{"sourceName":"星河1号仓","sourceUrl":"https://agit.ai/pinghui/xinghe/raw/commit/272fbb5697a8aa6abb60c7bd76252f9c13c89a24/ronghe.txt"},
+{"sourceName":"星河2号仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
+{"sourceName": "星河3号仓","sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
+{"sourceName": "星河4号仓","sourceUrl": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"},
+{"sourceName": "星河5号仓","sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/22.bin"},
+{"sourceName": "网络精选1","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/f5d5dbc6-d403-4cc4-92d5-f213319713bf.jpg"},
+{"sourceName": "网络精选2","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/de5cb406-a6c0-471f-9921-66ec910e5ba6.jpg"},
+{"sourceName": "网络精选3","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/f721e0c9-7882-4352-acb2-c0a78539ba44.jpg"},
+{"sourceName": "网络精选4","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/53e584f7-48da-40b1-b213-e71e5055f3cb.jpg"},
+{"sourceName": "网络精选5","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/bd7b7d4d-164b-4117-aed3-c78496ef284d.jpg"},
+{"sourceName": "网络精选6","sourceUrl": "https://cn.kstore.space/download/2904/123.txt"},
+{"sourceName": "网络精选7","sourceUrl": "https://box.nxog.top/1"},
+{"sourceName": "网络精选8","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/1bf5f4d3-893c-49e7-9ec0-56017a4f6b90.jpg"},
+{"sourceName": "网络精选9","sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"},
+{"sourceName": "欧歌主仓","sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName": "派大星仓库","sourceUrl": "http://tv.nxog.top/m/m/5.php?b=派大星"},
+{"sourceName": "高天流云","sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91gao-OL.json"},
+{"sourceName": "其它在线","sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json"},
+{"sourceName":"吾爱1号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"},
+{"sourceName":"吾爱2号仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67777/2.json?sign=6uxC2q2PId6OS9Y9ucygvIGl6wvugOzZN3E0Hzl4oCs%3D%3A0"},
+{"sourceName": "吾爱3号仓","sourceUrl": "https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},
+{"sourceName": "绿茶①号馆","sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
+{"sourceName": "绿茶②号馆","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
+{"sourceName": "绿茶③号馆","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"}
+
+//④  ③  ②  ①
+
+
+]
+}

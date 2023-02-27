@@ -1,0 +1,291 @@
+{
+    "urls": [
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库1,不要点击==="
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "🐻潇洒"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "🦁缓冲99"
+        },
+        {
+            "url": "https://liu673cn.github.io/box/m.json",
+            "name": "🐮github/liuc"
+        },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "name": "老刘备家庭版线路"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "name": "学习之路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "name": "🎁伍佰园"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "🍍Lucky/liuc"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🍆CH猫友"
+        },
+        {
+            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
+            "name": "🛣军碟"
+        },
+        {
+            "url": "http://xn--4bra.live/%E7%8C%AB",
+            "name": "😀4K"
+        },
+        {
+            "url": "http://8.210.220.114:8888/down/O58AjFT1OrTq.json",
+            "name": "😍星辰2"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "🤑月光宝盒Box"
+        },
+        {
+            "url": "http://wp.anxwl.cn/down.php/279a2174e2ba2f0d34002af90e94ec2e.txt&zn777",
+            "name": "🧞‍♂️白菜"
+        },
+        {
+            "url": "https://out.zxglife.top/down.php/05ad8a16e71ebb56b4ff3d719ab3963f.txt&zn777",
+            "name": "👙外链"
+        },
+        {
+            "url": "https://pan.tenire.com/down.php/079e7bb5c863b4ba37bc07a712188423.txt&zn777",
+            "name": "💋木极"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🐭神器每日推送"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐰吾爱️"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
+            "name": "🐼猫影TV盒"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "🐷dxawi/github"
+        },
+        {
+            "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+            "name": "🐽PinkBird"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/xianlu00.json",
+            "name": "🐦影阁一️‍️"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+            "name": "🐤影阁二"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+            "name": "🦅影阁四️"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐆云星家庭版"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "🐟云星哔哩"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "🐅云星阿里"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "🐉18+"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库2,不要点击==="
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29908/18.json",
+            "name": "月光福利"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库3,不要点击==="
+        },
+        {
+            "url": "https://freetvbox.ml/api/qy.txt",
+            "name": "晴园",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://out.zxglife.top/down.php/5da920895444ba485dde96b5425b8a67.txt",
+            "name": "♻️外链",
+            "time": "2022-08-28 10:33:33"
+        },
+        {
+            "url": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
+            "name": "🍐木极",
+            "time": "2022-08-28 10:33:33"
+        },
+        {
+            "url": "https://ju.binghe.ga/4.txt",
+            "name": "❄️冰河",
+            "time": "2022-08-28 10:33:33"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库4,不要点击==="
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库5,不要点击==="
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库6,不要点击==="
+        },
+        {
+            "url": "https://cdn.staticaly.com/gh/liu673cn/box/main/m.json",
+            "name": "老刘备家庭版副线"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "name": "老刘备家庭版副线二"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库7,不要点击==="
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库8,不要点击==="
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库9,不要点击==="
+        },
+        {
+            "url": "https://agit.ai/lsk617/y/raw/branch/master/X.json",
+            "name": "lsk617"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "dlgt7"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "name": "kebedd69"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库10,不要点击==="
+        },
+        {
+            "key": "666",
+            "name": "👓牛牛牛",
+            "url": "https://agit.ai/66666/mao/raw/commit/594f59504412e4ea234d9091dc86a5e0390a80eb/00/666.m3u8",
+            "date": "2022-09-07 21:00:00"
+        },
+        {
+            "key": "999",
+            "name": "🍷酒酒酒",
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/999.m3u8",
+            "date": "2022-09-07 21:00:00"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库11,不要点击==="
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库12,不要点击==="
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库13,不要点击==="
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库14,不要点击==="
+        },
+        {
+            "url": "https://guot55.github.io/gg1/qh.json",
+            "name": "线路2",
+            "time": "2022-08-24 02:03:04"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库15,不要点击==="
+        },
+        {
+            "url": "https://gitea.com/kapion/LS/raw/branch/main/1207.txt",
+            "name": "🚆gitea/1207"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库16,不要点击==="
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库17,不要点击==="
+        },
+        {
+            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
+            "name": "IQIQ个人线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/proxygr.json",
+            "name": "GHPROXY个人线路"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "66666〔000〕线路"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/666.m3u8",
+            "name": "66666〔666〕线路"
+        },
+        {
+            "url": "https://raw.fastgit.org/liu673cn/box/main/m.json",
+            "name": "老刘备线路"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "小苹果线路"
+        },
+        {
+            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt",
+            "name": "猫影视Pro线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库18,不要点击==="
+        },
+        {
+            "name": "线路16",
+            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
+            "date": "2022-09-06 11:52:05"
+        },
+        {
+            "name": "线路26",
+            "url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
+            "date": "2022-09-25 18:33:05"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Text/001_main.json",
+            "name": "===以下为仓库19,不要点击==="
+        }
+    ]
+}

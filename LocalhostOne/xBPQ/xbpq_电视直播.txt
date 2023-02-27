@@ -1,0 +1,21 @@
+{
+    "作者": "菜妮丝https://cainisi.cf",
+    "站名": "电视直播",
+    "主页url": "http://www.lu1.cc/c/tv/sjtv/",
+   "分类": "央视&卫视&北京&上海&天津&重庆&黑龙江&吉林&辽宁&内蒙古&宁夏&甘肃&青海&陕西&河北&山西&山东&安徽&河南&湖北&湖南&江西&江苏&浙江&福建&广东&广西&云南&贵州&四川&新疆&西藏&海南&香港&澳门&网络",
+    //"分类替换词": "ys&ws&bj&sh&tj&cq&hlj&jl&ln&nm&nx&gs&qh&sx&hb&sxi&sd&ah&hn&hub&hun&jx&js&zj&fj&gd&gx&yn&gz&sc&xj&xz&hin&hk&om&wl",
+   //"分类": "频道选择$index.htm",
+    "分类url": "http://www.lu1.cc/c/tv/sjtv/{cteId}",
+    "数组": "<li><a&&</li>",
+    "图片": "http://xn--m7r412advb92j21st65a.tk/wallpapers/dszbfm.jpeg",
+  
+    //"线路数组": ".headerNfooter&&h1",
+    //"线路标题": "Text",
+    "线路数组": "<ul&&</ul>",
+    //"线路合并": "1",
+    "播放数组": "<li>&&</li>",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&<",
+    "播放链接": "href=\"&&\"",
+    "播放图片": "http://xn--m7r412advb92j21st65a.tk/wallpapers/dszbfm.jpeg"
+}

@@ -1,0 +1,120 @@
+{
+    "urls": [
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=1&b=欧歌",
+            "name": "🚀1号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=2&b=欧歌",
+            "name": "🚀2号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=3&b=欧歌",
+            "name": "🚀3号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=4&b=欧歌",
+            "name": "🚀4号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=5&b=欧歌",
+            "name": "🚀5号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=6&b=欧歌",
+            "name": "🚀6号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=7&b=欧歌",
+            "name": "🚀7号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=8&b=欧歌",
+            "name": "🚀8号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=9&b=欧歌",
+            "name": "🚀9号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=10&b=欧歌",
+            "name": "🚀10号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=11&b=欧歌",
+            "name": "🚀11号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=12&b=欧歌",
+            "name": "🚀12号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=13&b=欧歌",
+            "name": "🚀13号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=14&b=欧歌",
+            "name": "🚀14号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=15&b=欧歌",
+            "name": "🚀15号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=16&b=欧歌",
+            "name": "🚀16号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=17&b=欧歌",
+            "name": "🚀17号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=18&b=欧歌",
+            "name": "🚀18号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=19&b=欧歌",
+            "name": "🚀19号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=20&b=欧歌",
+            "name": "🚀20号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=21&b=欧歌",
+            "name": "🚀21号本地仓库1-10"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=22&b=欧歌",
+            "name": "🚀22号本地多仓库未测"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=23&b=欧歌",
+            "name": "🚀23号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=24&b=欧歌",
+            "name": "🚀24号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=25&b=欧歌",
+            "name": "🚀25号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=26&b=欧歌",
+            "name": "🚀26号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=27&b=欧歌",
+            "name": "🚀星河27号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=28&b=欧歌",
+            "name": "🚀老杨28号仓库"
+        },
+        {
+            "url": "http://tv.nxog.top/api.php?mz=m&id=29&b=欧歌",
+            "name": "🚀29号仓库"
+        }
+    ]
+}

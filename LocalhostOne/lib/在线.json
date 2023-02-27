@@ -1,0 +1,18 @@
+
+{
+"storeHouse":
+[
+
+{"sourceName":"🇨🇳本地仓库🇨🇳","sourceUrl":"clan://localhost/TVBox/本地.json"},
+{"sourceName":"💎云星在线仓💎","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName": "💎安卓哥仓💎","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
+{"sourceName": "安卓哥","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
+{"sourceName":"星河线路仓","sourceUrl":"https://agit.ai/pinghui/xinghe/raw/commit/272fbb5697a8aa6abb60c7bd76252f9c13c89a24/ronghe.txt"},
+{"sourceName": "网络精选1","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/f5d5dbc6-d403-4cc4-92d5-f213319713bf.jpg"},
+{"sourceName": "其它在线","sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json"}
+
+//④  ③  ②  ①
+
+
+]
+}

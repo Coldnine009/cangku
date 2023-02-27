@@ -1,0 +1,29 @@
+{
+    "urls": [
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "🚀肥猫线路(http)"
+        },
+        {
+            "url":"https://download.kstore.space/download/3870/TVBox/jsons/18.json",
+            "name": "🚀马克思主义哲学"
+        },
+        {
+            "url":"https://download.kstore.space/download/3870/TVBox/jsons/18_2.json",
+            "name": "🚀马克思主义哲学2"
+        },
+        {
+            "url":"https://download.kstore.space/download/3870/TVBox/jsons/18_3.json",
+            "name": "🚀马克思主义哲学3"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "🐉18+"
+        },
+        
+        {
+            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/18.json",
+            "name": "🦒18+"
+        }
+    ]
+}
