@@ -5,16 +5,24 @@
             "name": "🚀肥猫线路(http)"
         },
         {
-            "url":"https://download.kstore.space/download/3870/TVBox/jsons/18.json",
-            "name": "🚀马克思主义哲学"
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18.json",
+            "name": "🚀马克思主义哲学1"
         },
         {
-            "url":"https://download.kstore.space/download/3870/TVBox/jsons/18_2.json",
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_2.json",
             "name": "🚀马克思主义哲学2"
         },
         {
-            "url":"https://download.kstore.space/download/3870/TVBox/jsons/18_3.json",
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_3.json",
             "name": "🚀马克思主义哲学3"
+        },
+        {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_4.json",
+            "name": "🚀马克思主义哲学4"
+        },
+        {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_5.json",
+            "name": "🚀马克思主义哲学5"
         },
         {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
@@ -27,3 +35,6 @@
         }
     ]
 }
+
+
+https://ghproxy.com/https://raw.githubusercontent.com/jack2583/tvboxx/main/DuoXian/DuoXian.json

@@ -783,7 +783,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Bili/哔哩合集.json",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/json/哔哩合集.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/Jar/duoduo_20230206.jar;md5;C4C75AB20901A7E1998FB1626C7368F7"
         },
         {
@@ -1388,7 +1388,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/LocalhostOne/tv/live.txt"
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQ29sZG5pbmUwMDkvY2FuZ2t1L21haW4vdHYveGlhb3NhX2xpdmVfMjAyMzAyMjIudHh0"
                     ]
                 }
             ]
