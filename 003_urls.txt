@@ -35,6 +35,3 @@
         }
     ]
 }
-
-
-https://ghproxy.com/https://raw.githubusercontent.com/jack2583/tvboxx/main/DuoXian/DuoXian.json
